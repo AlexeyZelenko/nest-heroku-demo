@@ -8,4 +8,5 @@ export class AppService {
     async getProducts() {
         return await this.products;
     }
+
 }
